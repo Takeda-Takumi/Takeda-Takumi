@@ -1,16 +1,15 @@
-### Hi there 👋
+### 初めての方へ
 
-<!--
-**Takeda-Takumi/Takeda-Takumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 注意
+ソースコードの可読性が低いと感じられる部分が多々あると思われます。
 
-Here are some ideas to get you started:
+言い訳がましくなってしまうのですが、
+競技プログラミングのコードについては、短時間でコーディングを行わなければならないので、
+変数名や関数名を考える時間があまり裂けないこともあり、可読性の低いコードとなってしまっております。
+個人開発のコードにつきましては、しっかりと推敲されたものを上げるというのではなく、今後そのプログラムを利用するかどうかもわからないこともあり、開発の試行錯誤の記録として扱っている側面が強いため、お見苦しいコードとなってしまっております。
+方針が固まり次第、リファクタリングを行いたいと考えておりますので、ご了承ください。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+その代わりといたしまして、CodingExampleというリポジトリに、とあるコードテストの私の解答を載せてあります。
+まだまだ至らぬ点も多々ありますが、リーダブルコードに則りまして
+詳細に変数名を記述したり、わかりにくい処理はコメントで記載したり、できるだけ簡潔な処理になるよう心掛けてコーディングいたしましたので、
+こちらも一度見ていただいてから判断していただけると、大変ありがたいです。
